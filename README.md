@@ -1,4 +1,4 @@
-# Internship_Project
+# Internship Project
 An Internship project on AI/ML
 
 Project Overview – MoodAI

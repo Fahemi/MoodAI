@@ -9,7 +9,9 @@ MoodAI enhances user experience by offering a motivational quote tailored to the
 With its clean interface and AI-driven feedback, MoodAI combines smart journaling with emotional insight in a simple, accessible format — all within a single Python-powered Jupyter Notebook.
 
 
-Features
+## Features
+
+
 📝 Daily mood journal input
 
 💬 Emotion detection using NLP

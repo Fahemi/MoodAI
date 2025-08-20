@@ -2,6 +2,7 @@
 An Internship project on AI/ML
 
 Project Overview – MoodAI
+
 MoodAI is an AI-powered mood journaling tool developed entirely in Python within a Jupyter Notebook environment. It promotes emotional wellness through daily self-reflection by allowing users to write short journal entries, analyzing the sentiment behind each entry using natural language processing (NLP), and providing intelligent, supportive AI responses based on the detected mood.
 
 MoodAI enhances user experience by offering a motivational quote tailored to the user’s emotional state and visualizing the most common words from their journal entries using a word cloud. Weekly mood trends are displayed through easy-to-understand graphs, helping users track their emotional patterns over time.
